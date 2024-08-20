@@ -1,0 +1,12 @@
+Filesystem     1K-blocks    Used Available Use% Mounted on
+devtmpfs            4096       0      4096   0% /dev
+tmpfs             486152       0    486152   0% /dev/shm
+tmpfs             194464     440    194024   1% /run
+/dev/xvda1      12505068 1664464  10840604  14% /
+tmpfs             486152       0    486152   0% /tmp
+/dev/xvda128       10202    1310      8892  13% /boot/efi
+tmpfs              97228       0     97228   0% /run/user/1000
+    PID TTY          TIME CMD
+   2453 pts/0    00:00:00 bash
+  27452 pts/0    00:00:00 vim
+  27460 pts/0    00:00:00 ps
